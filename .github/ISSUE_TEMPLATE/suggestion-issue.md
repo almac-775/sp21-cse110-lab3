@@ -2,7 +2,7 @@
 name: Suggestion Issue
 about: Template for suggesting a fix, or design choice
 title: ''
-labels: bug, enhancement
+labels: ''
 assignees: ''
 
 ---
