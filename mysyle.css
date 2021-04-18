@@ -1,7 +1,27 @@
 h1 {
     color: #008080;
+    font-size: 2in;
+}
+
+h2 {
+    color: salmon;
+    font-size: 3cm;
+}
+
+h3 {
+    color: sandybrown;
+    font-size: 2pc;
+}
+
+p {
+    font-size: 1.5vw;
+}
+
+ul {
+    background-color: hsl(212, 100, 46);
+    font-size: 1.2em;
 }
 
 li {
-    background-color: hsl(212, 100, 46);
+    font-size: 2ex;
 }
