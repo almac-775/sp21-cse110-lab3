@@ -40,6 +40,10 @@ li {
     font-size: 2ex;
 }
 
+ul li a:hover, ul li a:focus {
+    color: red;
+}
+
 iframe {
     position: static;
 }
