@@ -1,6 +1,7 @@
 h1 {
     color: #008080;
     font-size: 2in;
+    display: inline;
 }
 
 h2 {
@@ -37,4 +38,18 @@ ul {
 
 li {
     font-size: 2ex;
+}
+
+iframe {
+    position: static;
+}
+
+img {
+    position: relative;
+}
+
+footer {
+    height: 8in;
+    max-width: 9in;
+    display: block;
 }
