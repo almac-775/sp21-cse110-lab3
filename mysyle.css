@@ -66,6 +66,19 @@ img {
 footer.container {
     height: 8in;
     max-width: 9in;
+    display: block;
+}
+
+label {
     display: flex;
     flex-grow: 4;
+    flex-flow: column wrap;
+}
+
+nav ul li {
+    display: grid;
+    grid-column: 3;
+    grid-row: 1;
+    justify-self: center;
+    align-items: center;
 }
